@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Future Tense Building Game",
+  "description": "An interactive 3D-style cottage-building duel for two players, learning Spanish future tenses from Armenian.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
